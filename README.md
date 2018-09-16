@@ -13,11 +13,11 @@
   </a>
 </p>
 
-Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
+Flutter เป็นชุดคำสั่งที่ใช้ในการพัฒนาโมบายล์แอพพลิเคชั่น (Mobile app SDK) สำหรับแอพพลิเคชั่น iOS และ Android ที่มีประสิทธิภาพ และความเสถียร โดยใช้โค้ดชุดเดียวกัน
 
-If you appreciate the content 📖<br>
-Support project visibility, give a ⭐<br>
-Also 👍| ⭐| 👏 links to support their authors !
+ถ้าชอบข้อมูลในนี้ 📖<br>
+และเพื่อให้เนื้อหานี้มีเพื่อนๆ ของเราเห็นมากขึ้น กด ⭐ ด้วยล่ะ<br>
+และอย่าลืมกด 👍| ⭐| 👏 เพื่อสนับสนุนคนสร้างทุกคนด้วยล่ะ!
 
 <div style="text-align: center"><table><tr>
 <td style="text-align: center">
@@ -36,47 +36,47 @@ Also 👍| ⭐| 👏 links to support their authors !
 </td>
 </tr></table></div>
 
-## Contents
+## เนื้อหาแบ่งตามประเภท
 
-- [Articles](#articles)
-- [Videos](#videos)
-- [Components](#components)
+- [บทความ](#articles)
+- [วิดีโอ](#videos)
+- [คอมโพเนนท์ต่างๆ Components](#components)
 - [Navigation](#navigation)
 - [Template](#templates)
-- [Plugins](#plugins)
+- [ปลั๊กอิน (Plugins)](#plugins)
 - [Frameworks](#frameworks)
-- [Open Source Apps](#open-source-apps)
-- [Utilities](#utilities)
+- [แอพพลิเคชั่นแบบ Open Source](#open-source-apps)
+- [เครื่องมือต่างๆ ](#utilities)
 - [Bonus](#bonus)
 
-## Articles
+## บทความ
 
-### Begin with
+### สำหรับผู้เริ่มต้น
 
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) [1K👏] - Building beautiful, flexible user interfaces.
-- [Zero to One](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) [2.7K👏] - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn).
-- [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) [677👏] - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid).
+- [Zero to One](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) [2.7K👏] - พื้นฐาน Flutter โดย [Mikkel Ravn](https://medium.com/@mravn).
+- [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) [677👏] - บทความซีรีียส์ต่อเนื่อง 4 ชุด by [Chema Rubio](https://twitter.com/develodroid).
 
 ### Tutorial
 
-- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs.
-- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs.
+- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - เรียนรู้การสร้าง UI งามๆ กับ Google Code Labs.
+- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - เรียนรู้การทำงานกับ Firebase โดย Google Code Labs.
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial.
 
 ### Howtos
 
-- [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) [779👏] - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn).
-- [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin).
-- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) [375👍] - Firebase live coding.
-- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) [239👏] - By Mehmet Fidanboylu.
-- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) [365👏] - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam).
-- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) [516👏] - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
+- [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) [779👏] - ลงลึกด้านอนิเมชั่น by [Mikkel Ravn](https://medium.com/@mravn).
+- [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - แอพพลิเคชั่นที่ใช้ Google Cloud Function by [Romin Irani](https://rominirani.com/@iromin).
+- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) [375👍] - โค้ดสดการทำงานกับ Firebase.
+- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) [239👏] - ด้านความปลอดภัย โดย Mehmet Fidanboylu.
+- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) [365👏] - วิธีสร้าง Plugin ของคุณโดย [Karthik Ponnam](https://medium.com/@KarthikPonnam).
+- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) [516👏] - วิธีกำหนด build configuration และการใช้งานจริง โดย [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
 
 ### Websites / Blogs
 
-- [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek](https://marcinszalek.pl/).
-- [Sergi & Replace](https://sergiandreplace.com/) - Basic to advanced articles and tutorials [Sergi Martínez](https://github.com/sergiandreplace).
-- [Flutter by Example](https://flutterbyexample.com/) - Tutorials based on Redux, Firebase, Custom Animations, and UI.
+- [SZAŁKO-BLOG](https://marcinszalek.pl/) - การออกแบบขั้นสูงโดย [Marcin Szalek](https://marcinszalek.pl/).
+- [Sergi & Replace](https://sergiandreplace.com/) - บทความเริ่มต้นถึงขั้นสูงโดย [Sergi Martínez](https://github.com/sergiandreplace).
+- [Flutter by Example](https://flutterbyexample.com/) - บทความอ้างอิงเนื้อหา Redux, Firebase, Custom Animations, และ UI.
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst).
 - [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
@@ -344,21 +344,21 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ## Utilities
 
-- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) [935★] - Desktop implementations of the Flutter embedding API by Google.
-- [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya).
-- [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
+- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) [935★] - โครงการฝัง Flutter ลงโปรแกรม Desktop เพื่อใช้งานบน Window, Mac, Linux โดย Google.
+- [Mutisya 2](https://flutterstudio.app/) -  Flutter Studio ใช้งานออนไลน์ โดย [Paul Mutisya](https://medium.com/@pmutisya).
+- [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) ([![วิดีโอแนะนำภาษาไทย](http://img.youtube.com/vi/3cRn4kr7Ztg/0.jpg)](https://www.youtube.com/watch?v=3cRn4kr7Ztg)) - สร้างไอคอน Launcher สำหรับแอพง่ายๆ โดย [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) [65★] - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren).
 - [FlutterIcon](http://fluttericon.com/) [32★] - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots).
 
 ## Community
 
 - [Gitter](https://gitter.im/flutter/flutter) - Exchange channel.
-- [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen).
-- [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin).
+- [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - ชุมชน Reddit โดย [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen).
+- [Dev Discord](https://discord.gg/N7Yshp4) - Discord เพื่อใช้พูดคุยและช่วยเหลือกัน โดย [Pritykin](https://twitter.com/AndrewPritykin).
 
 ## Bonus
 
-- [It's All Widgets!](https://itsallwidgets.com) - Open list of published apps by [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) and [Scott Stoll](https://twitter.com/scottstoll2017).
+- [It's All Widgets!](https://itsallwidgets.com) - รายการแอพพลิเคชั่นที่สร้างด้วย Flutter ยำรวมโดย [Hillel Coren](https://twitter.com/hillelcoren), [Thomas Burkhart](https://twitter.com/ThomasBurkhartB), [Simon Lightfoot](https://twitter.com/devangelslondon) และ [Scott Stoll](https://twitter.com/scottstoll2017).
 
 ### Fun
 
@@ -366,6 +366,11 @@ Also 👍| ⭐| 👏 links to support their authors !
 
 ## License
 
+แปลและเรียบเรียงโดย [ธีรเศรษฐ์ จิรภัทร์ชาญเดช](https://www.nextflow.in.th) ([Teerasej Jiraphatchandej](https://www.linkedin.com/in/teerasej/)) โดยขออนุญาตจาก [Robert Felker](https://www.linkedin.com/in/robert-felker/) แล้ว
+
+เครดิตทั้งหมดเป็นของผู้สรรค์สร้างเนื้อหาดีๆ พวกนี้ทั้งหมดครับ
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Robert Felker](https://www.linkedin.com/in/robert-felker/) has waived all copyright and related or neighboring rights to this work.
+
