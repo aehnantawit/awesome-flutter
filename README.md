@@ -59,6 +59,7 @@ Flutter เป็นชุดคำสั่งที่ใช้ในการ
 
 ### Tutorial
 
+- [เริ่มต้นเรียนรู้ Flutter แบบง่ายๆ](https://www.youtube.com/playlist?list=PLzdmsTRIBqiyZZJu1S5vxuaPMKzR95Y7a) - วิดีโอ Youtube สอน Flutter สำหรับผู้เริ่มต้น โดย [ธีรเศรษฐ์ จิรภัทร์ชาญเดช](https://www.facebook.com/nextflow)
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - เรียนรู้การสร้าง UI งามๆ กับ Google Code Labs.
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - เรียนรู้การทำงานกับ Firebase โดย Google Code Labs.
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial.
@@ -72,15 +73,16 @@ Flutter เป็นชุดคำสั่งที่ใช้ในการ
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) [365👏] - วิธีสร้าง Plugin ของคุณโดย [Karthik Ponnam](https://medium.com/@KarthikPonnam).
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) [516👏] - วิธีกำหนด build configuration และการใช้งานจริง โดย [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
 
-### Websites / Blogs
+### เว็บไซต์ / บลอค
 
+- [Nextflow Blog](http://nextflow.in.th/google-flutter/) - แนะนำพื้นฐาน Flutter และวิดีโอสอนสำหรับผู้เริ่มต้น โดย [Teerasej Jiraphatchandej](https://www.facebook.com/nextflow)
 - [SZAŁKO-BLOG](https://marcinszalek.pl/) - การออกแบบขั้นสูงโดย [Marcin Szalek](https://marcinszalek.pl/).
 - [Sergi & Replace](https://sergiandreplace.com/) - บทความเริ่มต้นถึงขั้นสูงโดย [Sergi Martínez](https://github.com/sergiandreplace).
 - [Flutter by Example](https://flutterbyexample.com/) - บทความอ้างอิงเนื้อหา Redux, Firebase, Custom Animations, และ UI.
-- [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst).
-- [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
-- [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
-- [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens.
+- [Flutter Institute](https://flutter.institute/) - บทความต้นฉบับ โดย [Brian Armstrong](https://twitter.com/flutterinst).
+- [Flutter Rocks](https://flutter.rocks/) - บล๊อคที่สนุกกับ Flutter โดย [Iiro Krankka](https://twitter.com/koorankka).
+- [Norbert](https://medium.com/@norbertkozsir) - บทความเจาะลึก, ฟีเจอร์,​ และการสร้างแอพ โดย [Norbert515](https://github.com/Norbert515).
+- [Welcome to Flutter](https://didierboelens.com) - บทความภาษาอังกฤษ และฝรั่งเศส ในเรื่องวิธีแก้ปัญหา และวิธีใช้งานต่างๆ โดย Didier Boelens.
 
 ### Advanced
 
@@ -322,9 +324,9 @@ Flutter เป็นชุดคำสั่งที่ใช้ในการ
 
 ## Open Source Apps
 
-- [FriendlyChat](https://github.com/flutter/friendlychat-flutter) [136★] - Offline/Firebase chat by a team of Googlers.
-- [Meme Chat](https://github.com/efortuna/memechat) [275★] - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
-- [Flitter](https://github.com/dart-flitter/flitter) [107★] - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
+- [FriendlyChat](https://github.com/flutter/friendlychat-flutter) [136★] - แอพแชท ทำงานร่วมกับ Firebase ทำงานแบบออฟไลน์ได้ โดยทีมงานของ Google.
+- [Meme Chat](https://github.com/efortuna/memechat) [275★] - แอพแชทสร้างด้วย Flutter ใช้ Firebase, Google Sign In และใช้งานกล้อง โดยทีมงานของ Google.
+- [Flitter](https://github.com/dart-flitter/flitter) [107★] - แอพ Glitter  by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). ใช้ Redux และ Jaguar.
 - [Lime](https://github.com/fablue/lime-flutter) [165★] - Lime social network by Sebastian Sellmair.
 - [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) [210★] - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) [217★] - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
@@ -340,15 +342,16 @@ Flutter เป็นชุดคำสั่งที่ใช้ในการ
 
 ### Games
 
-- [Flip](https://github.com/RedBrogdon/flutterflip) [42★] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
+
+- [Flip](https://github.com/RedBrogdon/flutterflip) [42★] - Reversi เกมส์สร้างจาก Flutter โดย [Andrew Brogdon](https://github.com/RedBrogdon).
 
 ## Utilities
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) [935★] - โครงการฝัง Flutter ลงโปรแกรม Desktop เพื่อใช้งานบน Window, Mac, Linux โดย Google.
 - [Mutisya 2](https://flutterstudio.app/) -  Flutter Studio ใช้งานออนไลน์ โดย [Paul Mutisya](https://medium.com/@pmutisya).
-- [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) ([![วิดีโอแนะนำภาษาไทย](http://img.youtube.com/vi/3cRn4kr7Ztg/0.jpg)](https://www.youtube.com/watch?v=3cRn4kr7Ztg)) - สร้างไอคอน Launcher สำหรับแอพง่ายๆ โดย [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
-- [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) [65★] - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren).
-- [FlutterIcon](http://fluttericon.com/) [32★] - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots).
+- [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) ([วิดีโอภาษาไทย](https://www.youtube.com/watch?v=3cRn4kr7Ztg)) - สร้างไอคอน Launcher สำหรับแอพง่ายๆ โดย [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
+- [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) [65★] - ตัวสร้างโปรเจค รองรับ Redux Ffp [Hillel Coren](https://twitter.com/hillelcoren).
+- [FlutterIcon](http://fluttericon.com/) [32★] - ตัวสร้างชุด Icon โดย [Mike Hoolehan](https://github.com/ilikerobots).
 
 ## Community
 
